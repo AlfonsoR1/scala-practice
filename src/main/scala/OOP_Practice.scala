@@ -1,0 +1,3 @@
+class OOP_Practice {
+
+}
